@@ -1,0 +1,3 @@
+Running the app: 
+cd /Users/keirarish/ChatBot
+python3 -m streamlit run app.py
